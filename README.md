@@ -19,8 +19,9 @@ I'm Musavveer Rehaman, a sophomore pursuing BE in CSE from VVIT, Bangalore.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=musavveer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Musavveer's GitHub Stats" />
 </a>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musavveer&" alt="musavveer" /></p>
+
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=musavveer" alt="visitor badge"/>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musavveer&" alt="musavveer" /></p>
