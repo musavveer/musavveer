@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Musavveer Rehaman, a sophomore pursuing BE in CSE from VVIT, Bangalore.
+I'm Musavveer Rehaman, pursuing BE in CSE from VVIT, Bangalore.
 
 
 - 🔭 I’m currently working on something cool.
