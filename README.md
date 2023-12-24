@@ -1,14 +1,16 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Musavveer Rehaman, pursuing BE in CSE from VVIT, Bangalore.
+I'm Musavveer Rehaman.
 
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Python.
-- 🤔 I’m looking for help with Automation.
+- 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/Him.
 - 📫 Reach out to me :
-![Linkedin Badge](https://img.shields.io/badge/-MusavveerRehaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musavveer-rehaman-028b081a1/) ![Twitter Badge](https://img.shields.io/twitter/follow/iammusavveer?label=%40iammusavveer&style=social) ![Facebook Badge](https://img.shields.io/badge/-@iammusavveer-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/iammusavveer) ![Instagram Badge](https://img.shields.io/badge/-@rehxmxn-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/rehxmxn/)
+[![Linkedin Badge](https://img.shields.io/badge/-MusavveerRehaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musavveer-rehaman-028b081a1/)](https://www.linkedin.com/in/musavveer-rehaman-028b081a1/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/iammusavveer?label=%40iammusavveer&style=social)](https://twitter.com/iammusavveer)
+[![Facebook Badge](https://img.shields.io/badge/-@iammusavveer-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/iammusavveer)](https://www.facebook.com/iammusavveer)
+[![Instagram Badge](https://img.shields.io/badge/-@rehxmxn-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/rehxmxn/)](https://www.instagram.com/rehxmxn/)
 
 ## &#x1f4c8; GitHub Stats
 
